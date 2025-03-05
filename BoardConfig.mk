@@ -12,6 +12,9 @@ include device/realme/sm8250-common/BoardConfigCommon.mk
 
 DEVICE_PATH := device/realme/spartan
 
+# Assert
+TARGET_OTA_ASSERT_DEVICE := RMX3371,RE54E4L1,spartan
+
 # Display
 TARGET_SCREEN_DENSITY := 450
 
