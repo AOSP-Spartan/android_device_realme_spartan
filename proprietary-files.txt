@@ -20,6 +20,16 @@ odm/etc/acdbdata/Speaker_cal.acdb
 # Audio firmware
 odm/firmware/tfa98xx.cnt
 
+# Camera Configs
+odm/etc/camera/config/camera_unit_config
+odm/etc/camera/config/camera_unit_feature_config.protobuf
+odm/etc/camera/config/hi846
+odm/etc/camera/config/imx471
+odm/etc/camera/config/ov02b
+odm/etc/camera/CameraHWConfiguration.config
+odm/etc/camera/camera_engmode.xml
+odm/etc/camera/settings_fdc.txt
+
 # Camera sensors
 odm/lib64/camera/com.qti.sensor.hi846.so
 odm/lib64/camera/com.qti.sensor.imx471.so
